@@ -6,9 +6,9 @@ I’m currently following the **SOC Analyst path on Hack The Box** !
 
 
 
-> Training & Practice
+### Training & Practice
 
-### Root-Me
+>Root-Me
 👉 https://www.root-me.org/Jxpiter  
 
 I train regularly on:
